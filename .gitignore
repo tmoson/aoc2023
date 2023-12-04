@@ -1,0 +1,4 @@
+.clj-kondo
+.lsp
+.lein-repl-history
+*/target
